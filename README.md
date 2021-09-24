@@ -24,10 +24,12 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 This GIF only shows the required parts of the Twitter app:
-<img src='https://user-images.githubusercontent.com/72881310/134709323-86378554-3186-43fd-a26a-89dcddf4fd87.gif' title='Video Walkthrough' width='' height = '500' alt='Video Walkthrough' />
+
+<img src='https://user-images.githubusercontent.com/72881310/134709323-86378554-3186-43fd-a26a-89dcddf4fd87.gif' title='Video Walkthrough' width='' height = '700' alt='Video Walkthrough' />
 
 
 
 This GIF shows the bonus features of the Twitter app:
-<img src='https://user-images.githubusercontent.com/72881310/134710816-4bfdd6c7-e185-4885-9a2e-6402fa3e9129.gif' title='Video Walkthrough' width='' height = '500' alt='Video Walkthrough' />
+
+<img src='https://user-images.githubusercontent.com/72881310/134710816-4bfdd6c7-e185-4885-9a2e-6402fa3e9129.gif' title='Video Walkthrough' width='' height = '700' alt='Video Walkthrough' />
 
