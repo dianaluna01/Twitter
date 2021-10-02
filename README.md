@@ -23,7 +23,6 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src= ![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/72881310/135721684-7de341cd-253a-464d-852f-fb40483e3c68.gif)
-title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part I
 
